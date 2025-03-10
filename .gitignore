@@ -1,0 +1,5 @@
+*.session
+*.env
+creds.json
+venv
+__pycache__
